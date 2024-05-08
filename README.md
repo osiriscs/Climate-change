@@ -13,3 +13,8 @@ Los insights generados por este análisis ofrecen una visión  sobre el comporta
 - **Análisis (EDA):** Examinamos las tendencias climáticas  través de visualizaciones claras y accesibles.
 - **Predicciones Futuras:** Empleamos modelos estadísticos para anticipar cambios climáticos futuros.
 
+## 🚀 Cómo Visualizar Este Proyecto
+
+Para aprovechar al máximo las visualizaciones interactivas de este análisis, recomendamos ver la notebook a través de **nbviewer**. Esta herramienta permite una interacción directa con los gráficos dinámicos, facilitando una comprensión profunda de los patrones de cambio climático observados.
+
+🔗 Accede a la notebook aquí: [Ver Notebook Interactiva](https://nbviewer.org/github/osiriscs/Climate_change/blob/main/climate_change_project.ipynb)
