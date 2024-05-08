@@ -6,11 +6,9 @@ Este proyecto tiene como objetivo explorar y analizar las tendencias de temperat
 
 Los resultados de este análisis proporcionarán insights valiosos sobre el comportamiento del clima a nivel mundial y regional, contribuyendo así a un mejor entendimiento del cambio climático. 
 
-💡 **Insights**   
+💡 **Insights y características**   
 
 Los insights generados por este análisis ofrecen una visión  sobre el comportamiento climático a nivel mundial y regional. 
-
-📈 **Características**    
 
 - **Análisis (EDA):** Examinamos las tendencias climáticas  través de visualizaciones claras y accesibles.
 - **Predicciones Futuras:** Empleamos modelos estadísticos para anticipar cambios climáticos futuros.
